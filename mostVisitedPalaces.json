@@ -1,0 +1,452 @@
+[
+  {
+    "category": "Current",
+    "name": "The Forbidden City",
+    "location": "Beijing",
+    "country": "17,000,000+",
+    "visitors": "2018[1]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/The_Forbidden_City",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "St. Peter's Basilica-Apostolic Palace",
+    "location": "Vatican City",
+    "country": "11,000,000",
+    "visitors": "2018[2][3]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/16px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Palace of Versailles",
+    "location": "Versailles",
+    "country": "8,100,000",
+    "visitors": "2018[4]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Lincoln Memorial",
+    "location": "Washington, D.C.",
+    "country": "7,804,683",
+    "visitors": "2018[5]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lincoln_Memorial",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Forum Romanum-Colosseum-Palatine Hill Circuit",
+    "location": "Rome",
+    "country": "7,650,519",
+    "visitors": "2018[6]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Forum_Romanum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Acropolis of Athens-Parthenon",
+    "location": "Athens",
+    "country": "7,200,000",
+    "visitors": "2016[7]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Eiffel Tower",
+    "location": "Paris",
+    "country": "7,000,000",
+    "visitors": "2017[8]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Taj Mahal",
+    "location": "Agra",
+    "country": "6,532,366",
+    "visitors": "2019 [9]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Hagia Sophia",
+    "location": "Istanbul",
+    "country": "6,250,000",
+    "visitors": "2024[10]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Cologne Cathedral",
+    "location": "Cologne",
+    "country": "6,000,000",
+    "visitors": "2018[11]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Peterhof Palace",
+    "location": "Saint Petersburg",
+    "country": "5,245,900",
+    "visitors": "2016[12]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Peterhof_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Statue of Unity",
+    "location": "Kevadiya",
+    "country": "5,000,000+",
+    "visitors": "2023[13]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Statue_of_Unity",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Łazienki Palace",
+    "location": "Warsaw",
+    "country": "4,966,858",
+    "visitors": "2019[14]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/%C5%81azienki_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Vietnam Veterans Memorial",
+    "location": "Washington, D.C.",
+    "country": "4,719,148",
+    "visitors": "2018[5]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "World War II Memorial",
+    "location": "Washington, D.C.",
+    "country": "4,652,865",
+    "visitors": "2018[15]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/National_World_War_II_Memorial",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Independence National Historical Park",
+    "location": "Philadelphia",
+    "country": "4,576,436",
+    "visitors": "2018[5]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Independence_National_Historical_Park",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Sagrada Família",
+    "location": "Barcelona",
+    "country": "4,500,000",
+    "visitors": "2018 [16]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Statue of Liberty National Monument",
+    "location": "New York City",
+    "country": "4,335,431",
+    "visitors": "2018[5]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty_National_Monument",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Teotihuacán",
+    "location": "Teotihuacán",
+    "country": "4,070,000",
+    "visitors": "2018[17]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Teotihuac%C3%A1n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Mysore Palace",
+    "location": "Mysore",
+    "country": "3,861,162",
+    "visitors": "2019[18]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mysore_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Tsarskoe Selo State Museum-Reserve",
+    "location": "Saint Petersburg",
+    "country": "3,694,000",
+    "visitors": "2016[12]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tsarskoye_Selo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Pompeii",
+    "location": "Pompei, Naples",
+    "country": "3,646,585",
+    "visitors": "2018 [19]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pompeii",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Topkapı Palace",
+    "location": "Istanbul",
+    "country": "3,474,760",
+    "visitors": "2023[20]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Wilanów Palace",
+    "location": "Warsaw",
+    "country": "3,115,797",
+    "visitors": "2019[21]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wilan%C3%B3w_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Schönbrunn Palace",
+    "location": "Vienna",
+    "country": "3,050,000",
+    "visitors": "2017[22]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Kazan Kremlin",
+    "location": "Kazan",
+    "country": "2,893,300",
+    "visitors": "2016[12]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kazan_Kremlin",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Tower of London",
+    "location": "London",
+    "country": "2,858,336",
+    "visitors": "2018[23]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tower_of_London",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Alhambra",
+    "location": "Granada",
+    "country": "2,760,000",
+    "visitors": "2018[24]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alhambra",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Chichén Itzá",
+    "location": "Yucatán",
+    "country": "2,740,000",
+    "visitors": "2018[25]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Chapultepec Castle",
+    "location": "Mexico City",
+    "country": "2,661,615",
+    "visitors": "2018[26]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chapultepec_Castle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Ciudad de las Artes y las Ciencias",
+    "location": "Valencia",
+    "country": "2,637,567",
+    "visitors": "2018[27]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ciudad_de_las_Artes_y_las_Ciencias",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Moscow Kremlin",
+    "location": "Moscow",
+    "country": "2,478,622",
+    "visitors": "2016[28]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Moscow_Kremlin",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Battle of Stalingrad State Museum-Reserve",
+    "location": "Volgograd",
+    "country": "2,359,300",
+    "visitors": "2016[12]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Tulum",
+    "location": "Quintana Roo",
+    "country": "2,190,000",
+    "visitors": "2018[29]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tulum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Auschwitz-Birkenau Memorial and Museum",
+    "location": "Oświęcim",
+    "country": "2,053,000",
+    "visitors": "2016[30]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_Memorial_and_Museum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Edinburgh Castle",
+    "location": "Edinburgh",
+    "country": "2,111,578",
+    "visitors": "2018[31]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Mosque–Cathedral of Córdoba",
+    "location": "Córdoba",
+    "country": "1,953,133",
+    "visitors": "2018[32]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Royal Alcázar of Seville",
+    "location": "Seville",
+    "country": "1,875,744",
+    "visitors": "2018[33]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Alc%C3%A1zar_of_Seville",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Wawel Castle",
+    "location": "Kraków",
+    "country": "1,587,999",
+    "visitors": "2019[21]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wawel_Castle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Arc de Triomphe",
+    "location": "Paris",
+    "country": "1,583,260",
+    "visitors": "2017",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arc_de_Triomphe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Royal Palace of Madrid",
+    "location": "Madrid",
+    "country": "1,552,481",
+    "visitors": "2018[34]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Palace_of_Madrid",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Dolmabahçe Palace",
+    "location": "Istanbul",
+    "country": "1,500,000",
+    "visitors": "2022[35]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Neuschwanstein Castle",
+    "location": "Schwangau",
+    "country": "1,500,000",
+    "visitors": "2017[36]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Neuschwanstein",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Machu Picchu",
+    "location": "Cusco",
+    "country": "1,411,276",
+    "visitors": "2017[37]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png"
+  },
+  {
+    "category": "Current",
+    "name": "Castillo San Felipe del Morro (San Juan National Historic Site)",
+    "location": "San Juan",
+    "country": "1,400,000",
+    "visitors": "2016[38]",
+    "year": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_del_Morro",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/23px-Flag_of_Puerto_Rico.svg.png"
+  }
+]
