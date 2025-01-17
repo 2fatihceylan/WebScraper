@@ -36,7 +36,7 @@ async function getMostVisitedPalaces() {
                 const category = tableIndex === 0 ? 'Current' : 'Historical';
                 
                 
-                for (let i = 1; i < rows.length; i++) {                         // i = 0 because we want to Skip the header row
+                for (let i = 1; i < rows.length; i++) {                         // i = 1 because we want to Skip the header row
                     const row = rows[i];
                     const cells = row.querySelectorAll('td');
                     
